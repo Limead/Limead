@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Limead
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning DL
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me hdh8325@daum.net
 
